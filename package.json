@@ -1,4 +1,7 @@
 {
-	"name": "hello world",
-	"version": "0.0.1"
+	"name": "hello-world",
+	"version": "0.0.1",
+	"scripts": {
+		"start": "echo 'Server is on'"
+	}
 }
